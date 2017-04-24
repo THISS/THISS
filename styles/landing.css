@@ -1,3 +1,6 @@
 .bgimage {
   background-image: url("/images/brenton-lake.jpg");
 }
+body h2.title.is-4 {
+  color: #ddd;
+}
