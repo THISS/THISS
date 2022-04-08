@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/22757105-4656-5a14-9c70-0442a73e72a1",
+    "result": {"data":{"pluralsightJson":{"percentile":36.4533,"title":"Web Accessibility","dateCompleted":"3 years ago","level":"Proficient","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/accessibility-nvwE8N246OTQ.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/1d243d96128a8aaa529df76d5fa910e5/82c11/accessibility-nvwE8N246OTQ.png","srcSet":"/static/1d243d96128a8aaa529df76d5fa910e5/82c11/accessibility-nvwE8N246OTQ.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/1d243d96128a8aaa529df76d5fa910e5/5f169/accessibility-nvwE8N246OTQ.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":129}},"pageContext":{"badge":"22757105-4656-5a14-9c70-0442a73e72a1"}},
+    "staticQueryHashes": ["2080290373"]}

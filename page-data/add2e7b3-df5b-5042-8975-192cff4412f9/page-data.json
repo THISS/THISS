@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/add2e7b3-df5b-5042-8975-192cff4412f9",
+    "result": {"data":{"pluralsightJson":{"percentile":47.2714,"title":"NPM","dateCompleted":"3 years ago","level":"Proficient","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/npm-EQLkhQpQW4Pa.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/10bb381c765b2cc8d1e6a105aed7c35a/82c11/npm-EQLkhQpQW4Pa.png","srcSet":"/static/10bb381c765b2cc8d1e6a105aed7c35a/82c11/npm-EQLkhQpQW4Pa.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/10bb381c765b2cc8d1e6a105aed7c35a/5f169/npm-EQLkhQpQW4Pa.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":146}},"pageContext":{"badge":"add2e7b3-df5b-5042-8975-192cff4412f9"}},
+    "staticQueryHashes": ["2080290373"]}

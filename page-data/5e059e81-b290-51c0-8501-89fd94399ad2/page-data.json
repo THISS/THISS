@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/5e059e81-b290-51c0-8501-89fd94399ad2",
+    "result": {"data":{"pluralsightJson":{"percentile":83.4387,"title":"ES6","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/es6-ZTFHaqZcD2zV.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/b7f681f42a41fcad594565ec113114b5/82c11/es6-ZTFHaqZcD2zV.png","srcSet":"/static/b7f681f42a41fcad594565ec113114b5/82c11/es6-ZTFHaqZcD2zV.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/b7f681f42a41fcad594565ec113114b5/5f169/es6-ZTFHaqZcD2zV.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":207}},"pageContext":{"badge":"5e059e81-b290-51c0-8501-89fd94399ad2"}},
+    "staticQueryHashes": ["2080290373"]}

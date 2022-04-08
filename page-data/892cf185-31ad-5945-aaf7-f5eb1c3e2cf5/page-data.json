@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/892cf185-31ad-5945-aaf7-f5eb1c3e2cf5",
+    "result": {"data":{"pluralsightJson":{"percentile":95.4779,"title":"Docker","dateCompleted":"4 years ago","level":"Expert","thumbnailUrl":"https://pluralsight2.imgix.net/paths/images/docker-copy-3135ce60d0.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/3135ce60d09c097f6e8ef6671662151c/ccc41/docker-copy-3135ce60d0.png","srcSet":"/static/3135ce60d09c097f6e8ef6671662151c/ccc41/docker-copy-3135ce60d0.png 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/3135ce60d09c097f6e8ef6671662151c/d689f/docker-copy-3135ce60d0.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":248}},"pageContext":{"badge":"892cf185-31ad-5945-aaf7-f5eb1c3e2cf5"}},
+    "staticQueryHashes": ["2080290373"]}

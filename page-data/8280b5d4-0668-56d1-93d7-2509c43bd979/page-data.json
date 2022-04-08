@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/8280b5d4-0668-56d1-93d7-2509c43bd979",
+    "result": {"data":{"pluralsightJson":{"percentile":88.71090000000001,"title":"JavaScript Design Patterns","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/javascript-design-patterns-uSOoyjddu94S.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/8267a7d5a9a5a9e9f9eb567d75def3b4/82c11/javascript-design-patterns-uSOoyjddu94S.png","srcSet":"/static/8267a7d5a9a5a9e9f9eb567d75def3b4/82c11/javascript-design-patterns-uSOoyjddu94S.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/8267a7d5a9a5a9e9f9eb567d75def3b4/5f169/javascript-design-patterns-uSOoyjddu94S.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":221}},"pageContext":{"badge":"8280b5d4-0668-56d1-93d7-2509c43bd979"}},
+    "staticQueryHashes": ["2080290373"]}

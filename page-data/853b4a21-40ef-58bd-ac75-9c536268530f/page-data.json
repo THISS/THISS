@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/853b4a21-40ef-58bd-ac75-9c536268530f",
+    "result": {"data":{"pluralsightJson":{"percentile":87.0051,"title":"Git","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/git-ZTFPuKmPsFw6.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/74aca9138c48e2c9964582bf642d79e3/82c11/git-ZTFPuKmPsFw6.png","srcSet":"/static/74aca9138c48e2c9964582bf642d79e3/82c11/git-ZTFPuKmPsFw6.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/74aca9138c48e2c9964582bf642d79e3/5f169/git-ZTFPuKmPsFw6.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":216}},"pageContext":{"badge":"853b4a21-40ef-58bd-ac75-9c536268530f"}},
+    "staticQueryHashes": ["2080290373"]}

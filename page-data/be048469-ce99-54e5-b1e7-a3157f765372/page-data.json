@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/be048469-ce99-54e5-b1e7-a3157f765372",
+    "result": {"data":{"pluralsightJson":{"percentile":94.56569999999999,"title":"HTML5","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight.imgix.net/paths/path-icons/html5-7ac65c8ec0.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/7ac65c8ec0cfd946ca7199e5496a2010/ccc41/html5-7ac65c8ec0.png","srcSet":"/static/7ac65c8ec0cfd946ca7199e5496a2010/ccc41/html5-7ac65c8ec0.png 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/7ac65c8ec0cfd946ca7199e5496a2010/d689f/html5-7ac65c8ec0.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":243}},"pageContext":{"badge":"be048469-ce99-54e5-b1e7-a3157f765372"}},
+    "staticQueryHashes": ["2080290373"]}

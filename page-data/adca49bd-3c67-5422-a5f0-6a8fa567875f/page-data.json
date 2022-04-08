@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/adca49bd-3c67-5422-a5f0-6a8fa567875f",
+    "result": {"data":{"pluralsightJson":{"percentile":85.5111,"title":"CSS","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight.imgix.net/paths/path-icons/css-c9b214f0d7.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/c9b214f0d7d8cad05baeb95d8b053cee/ccc41/css-c9b214f0d7.png","srcSet":"/static/c9b214f0d7d8cad05baeb95d8b053cee/ccc41/css-c9b214f0d7.png 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/c9b214f0d7d8cad05baeb95d8b053cee/d689f/css-c9b214f0d7.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":212}},"pageContext":{"badge":"adca49bd-3c67-5422-a5f0-6a8fa567875f"}},
+    "staticQueryHashes": ["2080290373"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/f20cd758-7976-5338-a442-00e93cb91db8",
+    "result": {"data":{"pluralsightJson":{"percentile":41.5912,"title":"NoSQL Databases Mongo Edition (MongoDB)","dateCompleted":"3 years ago","level":"Proficient","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/mongodb-_tapUCul3mGt.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/cd2cc8a3fc5e5a4aa86a7e47a021b984/82c11/mongodb-_tapUCul3mGt.png","srcSet":"/static/cd2cc8a3fc5e5a4aa86a7e47a021b984/82c11/mongodb-_tapUCul3mGt.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/cd2cc8a3fc5e5a4aa86a7e47a021b984/5f169/mongodb-_tapUCul3mGt.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":137}},"pageContext":{"badge":"f20cd758-7976-5338-a442-00e93cb91db8"}},
+    "staticQueryHashes": ["2080290373"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/b76fea3e-379b-510c-b242-ca5ad7a287ce",
+    "result": {"data":{"pluralsightJson":{"percentile":72.2306,"title":"Express","dateCompleted":"3 years ago","level":"Proficient","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/express-HM55YVk3-FU-.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/d20ab0e23c560eb74e28a67bc725c3aa/82c11/express-HM55YVk3-FU-.png","srcSet":"/static/d20ab0e23c560eb74e28a67bc725c3aa/82c11/express-HM55YVk3-FU-.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/d20ab0e23c560eb74e28a67bc725c3aa/5f169/express-HM55YVk3-FU-.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":185}},"pageContext":{"badge":"b76fea3e-379b-510c-b242-ca5ad7a287ce"}},
+    "staticQueryHashes": ["2080290373"]}

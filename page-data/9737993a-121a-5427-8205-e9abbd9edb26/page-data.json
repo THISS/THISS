@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/9737993a-121a-5427-8205-e9abbd9edb26",
+    "result": {"data":{"pluralsightJson":{"percentile":97.5276,"title":"Angular","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight2.imgix.net/paths/images/angular-14a0f6532f.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/14a0f6532fd0eabe80be2640d950f845/ccc41/angular-14a0f6532f.png","srcSet":"/static/14a0f6532fd0eabe80be2640d950f845/ccc41/angular-14a0f6532f.png 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/14a0f6532fd0eabe80be2640d950f845/d689f/angular-14a0f6532f.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":262}},"pageContext":{"badge":"9737993a-121a-5427-8205-e9abbd9edb26"}},
+    "staticQueryHashes": ["2080290373"]}

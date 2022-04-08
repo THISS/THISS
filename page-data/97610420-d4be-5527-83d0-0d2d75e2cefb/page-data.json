@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/97610420-d4be-5527-83d0-0d2d75e2cefb",
+    "result": {"data":{"pluralsightJson":{"percentile":41.027,"title":"TypeScript","dateCompleted":"3 years ago","level":"Proficient","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/typescript-g4UBd2ehbtKm.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/6b5ece010e4ec070bc2d799abd712627/82c11/typescript-g4UBd2ehbtKm.png","srcSet":"/static/6b5ece010e4ec070bc2d799abd712627/82c11/typescript-g4UBd2ehbtKm.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/6b5ece010e4ec070bc2d799abd712627/5f169/typescript-g4UBd2ehbtKm.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":137}},"pageContext":{"badge":"97610420-d4be-5527-83d0-0d2d75e2cefb"}},
+    "staticQueryHashes": ["2080290373"]}

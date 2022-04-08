@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/47b49ad0-5ff4-5c7e-bff2-b801f289bf9f",
+    "result": {"data":{"pluralsightJson":{"percentile":42.978,"title":"C#","dateCompleted":"3 years ago","level":"Proficient","thumbnailUrl":"https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/e7b8fcd4ceb430ffc60ed55e5ab98fa5/ccc41/csharp-e7b8fcd4ce.png","srcSet":"/static/e7b8fcd4ceb430ffc60ed55e5ab98fa5/ccc41/csharp-e7b8fcd4ce.png 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/e7b8fcd4ceb430ffc60ed55e5ab98fa5/d689f/csharp-e7b8fcd4ce.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":140}},"pageContext":{"badge":"47b49ad0-5ff4-5c7e-bff2-b801f289bf9f"}},
+    "staticQueryHashes": ["2080290373"]}

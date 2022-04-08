@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/a6651e0a-9b28-5682-88d0-4cabff35a64e",
+    "result": {"data":{"pluralsightJson":{"percentile":6.08029,"title":"Visual Studio 2017","dateCompleted":"3 years ago","level":"Novice","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/windows-ee0dacafe8.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/ee0dacafe860b9f1e62e81704e4b2c49/ccc41/windows-ee0dacafe8.png","srcSet":"/static/ee0dacafe860b9f1e62e81704e4b2c49/ccc41/windows-ee0dacafe8.png 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/ee0dacafe860b9f1e62e81704e4b2c49/d689f/windows-ee0dacafe8.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":60}},"pageContext":{"badge":"a6651e0a-9b28-5682-88d0-4cabff35a64e"}},
+    "staticQueryHashes": ["2080290373"]}

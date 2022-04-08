@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/1048eda9-2415-5a3c-a6f8-8a276beee520",
+    "result": {"data":{"pluralsightJson":{"percentile":55.272299999999994,"title":"Web Application Security","dateCompleted":"3 years ago","level":"Proficient","thumbnailUrl":"https://pluralsight2.imgix.net/paths/images/comptia-security-plus-5d8ab8e621.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/5d8ab8e6211fe17543c86604d85f84e6/ccc41/comptia-security-plus-5d8ab8e621.png","srcSet":"/static/5d8ab8e6211fe17543c86604d85f84e6/ccc41/comptia-security-plus-5d8ab8e621.png 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/5d8ab8e6211fe17543c86604d85f84e6/d689f/comptia-security-plus-5d8ab8e621.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":158}},"pageContext":{"badge":"1048eda9-2415-5a3c-a6f8-8a276beee520"}},
+    "staticQueryHashes": ["2080290373"]}

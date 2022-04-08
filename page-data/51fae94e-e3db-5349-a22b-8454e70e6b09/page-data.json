@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/51fae94e-e3db-5349-a22b-8454e70e6b09",
+    "result": {"data":{"pluralsightJson":{"percentile":91.3746,"title":"Node.js","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight.imgix.net/paths/path-icons/nodejs-601628d09d.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/601628d09da962bb7ae33344d1529303/ccc41/nodejs-601628d09d.png","srcSet":"/static/601628d09da962bb7ae33344d1529303/ccc41/nodejs-601628d09d.png 512w","sizes":"100vw"},"sources":[{"srcSet":"/static/601628d09da962bb7ae33344d1529303/d689f/nodejs-601628d09d.webp 512w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":230}},"pageContext":{"badge":"51fae94e-e3db-5349-a22b-8454e70e6b09"}},
+    "staticQueryHashes": ["2080290373"]}

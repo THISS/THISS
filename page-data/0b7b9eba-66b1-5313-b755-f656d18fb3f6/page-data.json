@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/0b7b9eba-66b1-5313-b755-f656d18fb3f6",
+    "result": {"data":{"pluralsightJson":{"percentile":42.0138,"title":"GitHub","dateCompleted":"3 years ago","level":"Proficient","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/github-hbXy1O6RPm1m.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/1095887e87c0c35196238b0aafa971c5/82c11/github-hbXy1O6RPm1m.png","srcSet":"/static/1095887e87c0c35196238b0aafa971c5/82c11/github-hbXy1O6RPm1m.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/1095887e87c0c35196238b0aafa971c5/5f169/github-hbXy1O6RPm1m.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":138}},"pageContext":{"badge":"0b7b9eba-66b1-5313-b755-f656d18fb3f6"}},
+    "staticQueryHashes": ["2080290373"]}

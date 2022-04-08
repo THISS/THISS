@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/efb33101-5b18-5eef-9b09-f1a61e861e6a",
+    "result": {"data":{"pluralsightJson":{"percentile":95.4379,"title":"RxJS","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/rxjs-1TXbfgBFS7wf.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/474d383ebd526920bec130dc6ebc0187/82c11/rxjs-1TXbfgBFS7wf.png","srcSet":"/static/474d383ebd526920bec130dc6ebc0187/82c11/rxjs-1TXbfgBFS7wf.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/474d383ebd526920bec130dc6ebc0187/5f169/rxjs-1TXbfgBFS7wf.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":248}},"pageContext":{"badge":"efb33101-5b18-5eef-9b09-f1a61e861e6a"}},
+    "staticQueryHashes": ["2080290373"]}

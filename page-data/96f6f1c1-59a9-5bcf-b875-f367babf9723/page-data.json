@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-pluralsight-badge-js",
+    "path": "/96f6f1c1-59a9-5bcf-b875-f367babf9723",
+    "result": {"data":{"pluralsightJson":{"percentile":96.5989,"title":"Redux","dateCompleted":"3 years ago","level":"Expert","thumbnailUrl":"https://pluralsight2.imgix.net/assessments/images/icons/redux-NE5jFOfNfPe2.png","localImage":{"childImageSharp":{"gatsbyImageData":{"layout":"fullWidth","backgroundColor":"#080808","images":{"fallback":{"src":"/static/6da96e2897219fdc329c030cc258dfe2/82c11/redux-NE5jFOfNfPe2.png","srcSet":"/static/6da96e2897219fdc329c030cc258dfe2/82c11/redux-NE5jFOfNfPe2.png 500w","sizes":"100vw"},"sources":[{"srcSet":"/static/6da96e2897219fdc329c030cc258dfe2/5f169/redux-NE5jFOfNfPe2.webp 500w","type":"image/webp","sizes":"100vw"}]},"width":1,"height":1}}},"score":255}},"pageContext":{"badge":"96f6f1c1-59a9-5bcf-b875-f367babf9723"}},
+    "staticQueryHashes": ["2080290373"]}
